@@ -1,0 +1,42 @@
+_repo: Heleen-b-een-vroege-winter_74089
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bruggen, Carry van
+    aliases:
+    - Haan, Carry de
+    - Pit, Carry (de Haan) van Bruggen
+    - Haan, Caroline Lea Pit-De
+    - Bruggen, Carry de Haan van
+    - Van Bruggen, Carry de Haan
+    - De Haan van Bruggen, Carry
+    - Abbing Justine
+    birthdate: 1881
+    deathdate: 1932
+    gutenberg_agent_id: '56227'
+    url: http://www.gutenberg.org/2009/agents/56227
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Carry_van_Bruggen
+    - https://nl.wikipedia.org/wiki/Carry_van_Bruggen
+description: ''
+gutenberg_issued: '2024-07-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74089'
+language: nl
+pgterms:marc905: 20230311024751bruggen
+pgterms:marc906: '1913'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg
+publication_note: '  $aAmsterdam :$bDe maatschappij voor goede en goedkoope lectuur,
+  $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dutch fiction -- 20th century'
+- !lcc 'PT'
+- GITenberg
+title: 'Heleen : $b "een vroege winter"'
+url: http://www.gutenberg.org/ebooks/74089
