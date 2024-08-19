@@ -1,5 +1,8 @@
 _repo: Heleen-b-een-vroege-winter_74089
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bruggen, Carry van
@@ -19,6 +22,8 @@ creator:
     - https://en.wikipedia.org/wiki/Carry_van_Bruggen
     - https://nl.wikipedia.org/wiki/Carry_van_Bruggen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74089#Heleen-b-een-vroege-winter
 gutenberg_issued: '2024-07-21'
 gutenberg_type: Text
 identifiers:
